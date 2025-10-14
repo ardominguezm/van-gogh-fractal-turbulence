@@ -5,6 +5,39 @@
 This repository contains the full analysis pipeline, figures, and data supporting the paper:  
 **“Fractal Turbulence and Aesthetic Complexity in Van Gogh’s Late Paintings”**,  
 prepared for submission to *Chaos* (AIP Publishing).
+van-gogh-fractal-turbulence/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
+│
+├── data/
+│   ├── irises-may1889.jpg
+│   ├── starry-night-1889.jpg
+│   ├── road-cypress-star-1890.jpg
+│   └── wheat-field-crows-1890.jpg
+│
+├── figures/
+│   ├── Fig_Hq_all_paintings.png
+│   ├── Fig_falpha_grid.png
+│   ├── Fig_Hq_comparison_fbm05_surrogates.png
+│   ├── Fig_falpha_comparison_fbm05_surrogates.png
+│   ├── Fig_local_multiscale_delta_alpha_maps.png
+│   └── Fig_evolution_metrics.png
+│
+├── tables/
+│   ├── van_gogh_global_fractal_metrics.csv
+│   └── van_gogh_global_fractal_metrics.tex
+│
+├── src/
+│   ├── mfdfa2D.py
+│   ├── fbm_generator.py
+│   ├── analysis_pipeline.py
+│   └── plotting_tools.py
+│
+└── notebooks/
+    └── van_gogh_fractal_analysis.ipynb
+
 
 ---
 
