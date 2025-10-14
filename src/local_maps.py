@@ -114,3 +114,10 @@ def plot_multiscale_maps(img, q_vals, fig_dir, levels=None, dpi=200):
         plt.savefig(path, dpi=dpi, bbox_inches="tight")
         plt.close()
         print("Saved:", path)
+
+# from local_maps import plot_multiscale_maps
+# from analysis_pipeline import load_luminance, Q_VALS, FIG_DIR
+
+# # Example for The Starry Night
+# img = load_luminance("../data/starry-night-1889.jpg")
+# plot_multiscale_maps(img, Q_VALS, fig_dir=FIG_DIR)
