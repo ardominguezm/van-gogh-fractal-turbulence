@@ -17,3 +17,11 @@ setup(
     ],
     python_requires=">=3.8",
 )
+
+# pip install -e 
+#import vgfractals as vg
+
+#Y = vg.load_luminance("data/starry-night-1889.jpg")
+#Hq, tau_q, alpha, f_alpha = vg.hurst_and_spectrum(...)
+#vg.plot_spectra(...)
+
