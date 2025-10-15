@@ -1,15 +1,13 @@
-# 🎨 Fractal Turbulence in Van Gogh’s Paintings
+#  Fractal Turbulence in Van Gogh’s Paintings
 
 > *"The structure of turbulence and the structure of beauty are both born from chaos."*  
 
 This repository contains the full analysis pipeline, figures, and data supporting the paper:  
-**“Fractal Turbulence and Aesthetic Complexity in Van Gogh’s Late Paintings”**,  
-prepared for submission to *Chaos* (AIP Publishing).
-van-gogh-fractal-turbulence/
+**“Multifractal luminance and aesthetic complexity in van Gogh's paintings”** (submission to *CHAOS*).
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 We apply **2D Multifractal Detrended Fluctuation Analysis (MFDFA)** to luminance maps of four late paintings by Vincent van Gogh (1889–1890).  
 By quantifying **generalized Hurst exponents**, **singularity spectra**, and **turbulence-derived fractal metrics**, the study explores how **aesthetic complexity evolves in Van Gogh’s final creative period**.
@@ -18,7 +16,7 @@ A benchmark ensemble of **fractional Brownian motion (fBm, H = 0.5)** is used as
 
 ---
 
-## 🧮 Methods
+## Methods
 
 1. **Image preprocessing**
    - Convert RGB images to luminance (Rec. 601).
@@ -47,7 +45,7 @@ A benchmark ensemble of **fractional Brownian motion (fBm, H = 0.5)** is used as
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Painting | Year | H(2) | Δα | FTI | CI | Notes |
 |-----------|------|------|----|-----|----|-------|
@@ -58,9 +56,9 @@ A benchmark ensemble of **fractional Brownian motion (fBm, H = 0.5)** is used as
 
 ---
 
-## 🖥️ Running the Analysis
+##  Running the Analysis
 
-### 1️⃣ Installation
+###  Installation
 ```bash
 git clone https://github.com/andyrdm/van-gogh-fractal-turbulence.git
 cd van-gogh-fractal-turbulence
