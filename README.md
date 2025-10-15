@@ -40,7 +40,7 @@ A benchmark ensemble of **fractional Brownian motion (fBm, H = 0.5)** is used as
 
 4. **Visualization**
    - Global spectra: H(q) and f(α)
-   - Evolution of fractal metrics (H(2), Δα, FTI, CI)
+   - **Evolution of fractal metrics (H(2), Δα, FTI, CI)**
    - Multiscale Δα maps (Macro–Fine grids)
 
 ---
