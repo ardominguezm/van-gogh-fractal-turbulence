@@ -3,7 +3,7 @@
 > *"The structure of turbulence and the structure of beauty are both born from chaos."*  
 
 This repository contains the full analysis pipeline, figures, and data supporting the paper:  
-**Domínguez A. “Multifractal luminance and aesthetic complexity in van Gogh's paintings”** (submitted to *Chaos: An Interdisciplinary Journal of Nonlinear Science*).
+**Domínguez A. “Multifractal luminance and aesthetic complexity in van Gogh's paintings”** (submitted to *Chaos: An Interdisciplinary Journal of Nonlinear Science*, Oct 2025).
 
 ---
 
