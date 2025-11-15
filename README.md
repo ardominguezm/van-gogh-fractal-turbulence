@@ -14,7 +14,6 @@ We apply **2D Multifractal Detrended Fluctuation Analysis (MFDFA)** to luminance
 By quantifying **generalized Hurst exponents**, **singularity spectra**, and **turbulence-derived fractal metrics**, the study explores how **aesthetic complexity evolves in Van Gogh’s final creative period**.
 
 A benchmark ensemble of **fractional Brownian motion (fBm, H = 0.5)** is used as a *neutral model of isotropic fractal roughness*, with 100 surrogate realizations defining a confidence band for comparison.
-![Uploading image.png…]()
 
 ---
 
